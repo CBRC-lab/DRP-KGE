@@ -1,5 +1,6 @@
 # DRP-KGE
 Drug Repositioning Prediction using Knowledge Graph Embedding
+The authores: Zahra Ghorbanali, Fatemeh Zare-Mirakabad*, Mohammad Akbari, Najmeh Salehi, Ali Masoudi-Nejad
 
 ## The model architecture
 
